@@ -60,7 +60,7 @@ int main( void )
    puts( "End of run." );
 } // end main
 
-
+ 
 
 
 // display program instructions to user
@@ -71,3 +71,4 @@ void instructions( void )
       "   2 to delete an element from the list.\n"
       "   3 to end."<<endl ;
 } // end function instructions
+
